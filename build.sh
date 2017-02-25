@@ -54,21 +54,19 @@ rm -f $RDIR/build/$ZIPLOC/g935x/*.img
 rm -f $RDIR/build/$ZIPLOC/g93xx/*.zip
 rm -f $RDIR/build/$ZIPLOC/g93xx/*.img
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/acct/.placeholder
-echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/cache/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/data/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/dev/.placeholder
-echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/lib/modules/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/mnt/.placeholder
+echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/oem/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/proc/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/storage/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/sys/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g930x/ramdisk/system/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/acct/.placeholder
-echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/cache/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/data/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/dev/.placeholder
-echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/lib/modules/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/mnt/.placeholder
+echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/oem/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/proc/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/storage/.placeholder
 echo "" > $RDIR/build/$RAMDISKLOC/g935x/ramdisk/sys/.placeholder
